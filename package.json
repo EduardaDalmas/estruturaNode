@@ -5,6 +5,9 @@
   "repository": "https://github.com/EduardaDalmas/estruturaNode.git",
   "author": "Eduarda Brisch Dalmas <eduardadalmas@ienh.com.br>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
